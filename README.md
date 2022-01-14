@@ -1,2 +1,2 @@
 - 👩‍💻 Hi, I’m @laerke
-- 🤓 I’m interested in web design and data visualization
+- 🤓 I’m interested in web development and data visualization
